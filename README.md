@@ -52,7 +52,7 @@ Upon Opening the PC I verfied that it was indeed missing ram as the slots were a
 
 
 
-<img src="PC_Internal_Checking_Ram.jpeg" alt="Internal RAM and Motherboard view" width="600">
+<img src=PC_Internal_Checking_Ram.jpeg alt="Internal RAM and Motherboard view" width="600">
 
 
 
