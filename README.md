@@ -32,6 +32,8 @@ Solution: ordered new power cord ($2)
 
 Computer is beeping and light is flashing orange.
 
+![Demo](./Blinking%20orange%20light.gif)
+
 
 
 
