@@ -46,7 +46,7 @@ Observed Pattern: 3 amber flashes, a pause, followed by 3 amber flashes (Code 3,
 Meaning: This code signals No Memory/RAM Detected. My guess is it's either missing ram modules completely or it is seated incorrectly.
 The system is currently identifying a memory fault. Since the motherboard is communicating via these codes, the CPU and Board are likely healthy (hopfully).
 
-Upon Opening the PC I verfied that it was indeed missing ram as the slots were all missing
+Upon Opening the PC I verfied that it was indeed missing ram as the slots were all empty
 
 <img src="pc%20internal%20checking%20ram.JPEG" alt="Internal RAM Check" width="400">
 
