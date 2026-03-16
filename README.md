@@ -32,16 +32,4 @@ Solution: ordered new power cord ($2)
 
 PC powers on but doesn't boot. Power button light is blinking orange
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="blinking%20orange%20light.jpeg" alt="Blinking orange light on power button" width="400">
