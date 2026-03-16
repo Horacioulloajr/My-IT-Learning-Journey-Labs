@@ -49,10 +49,7 @@ The system is currently identifying a memory fault. Since the motherboard is com
 Upon Opening the PC I verfied that it was indeed missing ram as the slots were all empty
 
 
-
-
-
-<img src=PC_Internal_Checking_Ram.jpeg alt="Internal RAM and Motherboard view" width="400">
+![PC Internal Checking Ram](PC_Internal_Checking_Ram.jpeg)
 
 
 
