@@ -32,12 +32,7 @@ Solution: ordered new power cord ($2)
 
 Computer is beeping and light is flashing orange.
 
-## Demo or Media
 
-<video width="400" controls>
-  <source src="./Blinking%20orange%20light.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
 
 
 
