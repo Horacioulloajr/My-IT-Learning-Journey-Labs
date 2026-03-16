@@ -34,7 +34,10 @@ Computer is beeping and light is flashing orange.
 
 ## Demo or Media
 
-- [Blinking orange light demo](./Blinking%20orange%20light.mov)
+<video width="400" controls>
+  <source src="./Blinking%20orange%20light.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
 
 
 
