@@ -30,9 +30,9 @@ Solution: ordered new power cord ($2)
 <img src="C13 power cord image" alt="C13 power cord image" width="400">
 
 
-PC powers on but doesn't boot 
+PC powers on but doesn't boot. Power button light is blinking orange
 
-![Image Description](./IMG_3353.HEIC)
+
 
 
 
