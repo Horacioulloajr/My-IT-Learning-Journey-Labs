@@ -27,6 +27,10 @@ Findings: The PC powered on :O. The monitor did not power on with PC's cable
 Verdict: Power cord is faulty
 Solution: ordered new power cord ($2)
 
+Computer is beeping and light is flashing orange.
+
+
+
 
 
 
