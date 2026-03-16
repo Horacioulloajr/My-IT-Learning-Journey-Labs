@@ -48,7 +48,7 @@ The system is currently identifying a memory fault. Since the motherboard is com
 
 Upon Opening the PC I verfied that it was indeed missing ram as the slots were all missing
 
-<img src="pc internal checking ram.JPEG" alt="pc internal checking ram.JPEG" width="400">
+[Internal Hardware Check](pc%20internal%20checking%20ram.JPEG)
 
 
 
