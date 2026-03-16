@@ -30,7 +30,11 @@ Solution: ordered new power cord ($2)
 <img src="C13 power cord image" alt="C13 power cord image" width="400">
 
 
-Computer is beeping and light is flashing orange.
+PC powers on but doesn't boot 
+
+<<img src="IMG_3353.HEIC" alt="IMG_3353.HEIC" width="400">
+
+
 
 
 
