@@ -48,7 +48,7 @@ The system is currently identifying a memory fault. Since the motherboard is com
 
 Upon Opening the PC I verfied that it was indeed missing ram as the slots were all missing
 
-[Internal Hardware Check](pc%20internal%20checking%20ram.JPEG)
+<img src="pc%20internal%20checking%20ram.JPEG" alt="Internal view of OptiPlex 7040 and RAM slots" width="400">
 
 
 
