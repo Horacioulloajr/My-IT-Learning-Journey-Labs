@@ -32,7 +32,7 @@ Solution: ordered new power cord ($2)
 
 PC powers on but doesn't boot 
 
-<<img src="IMG_3353.HEIC" alt="IMG_3353.HEIC" width="400">
+![Image Description](./IMG_3353.HEIC)
 
 
 
