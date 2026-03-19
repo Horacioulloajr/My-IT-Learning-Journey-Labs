@@ -52,6 +52,25 @@ Upon Opening the PC I verfied that it was indeed missing ram as the slots were a
 <img src="RAM-Slots.JPEG" alt="Dell OptiPlex 7040 Internal RAM Slots" width="600">
 
 
+i ordered two ddr4 rams sticks off ebay $30 x 2
+
+I inserted them into into the slots
+
+pc powered on
+
+specs windows 11 pro , 250 gb ssd intel i5
+
+i noticed the in bios the ram was configured in single channel instead of dual channel. i learned dual channel is better for efficiency 
+i originally thought order did not matter but does so im moving them fpr best efficiency.
+
+after re arranging the ram to achive dual channel. i plugged
+
+
+ 
+
+
+
+
 
 
 
