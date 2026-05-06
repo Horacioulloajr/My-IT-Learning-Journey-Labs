@@ -48,7 +48,7 @@ The system is currently identifying a memory fault. Since the motherboard is com
 
 Upon Opening the PC I verfied that it was indeed missing ram as the slots were all empty
 
-{insert empty ram slot here photo}
+![Empty RAM Slots](NoRAM.jpg)
 
 
 i ordered two ddr4 rams sticks off ebay $30 x 2
