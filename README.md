@@ -52,10 +52,9 @@ Upon Opening the PC I verfied that it was indeed missing ram as the slots were a
 
 
 i ordered two ddr4 rams sticks off ebay $30 x 2
+<img src="2RAMSTICKS.jpg" alt="Installed RAM Sticks" width="400">
 
 I inserted them into into the slots
-
-<img src="2RAMSTICKS.jpg" alt="Installed RAM Sticks" width="400">
 
 pc powered on
 
