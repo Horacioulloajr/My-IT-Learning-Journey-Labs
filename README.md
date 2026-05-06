@@ -61,9 +61,11 @@ pc powered on
 specs windows 11 pro , 250 gb ssd intel i5
 
 i noticed the in bios the ram was configured in single channel instead of dual channel. i learned dual channel is better for efficiency 
-i originally thought order did not matter but does so im moving them fpr best efficiency.
+i originally thought order did not matter but does so im moving them for best efficiency.
 
-after re arranging the ram to achive dual channel. i plugged
+after re arranging the ram to achive dual channel. i plugged in the PC and no lights come on. oops
+
+
 
 
  
