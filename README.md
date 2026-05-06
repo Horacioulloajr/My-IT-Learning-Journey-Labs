@@ -55,7 +55,7 @@ i ordered two ddr4 rams sticks off ebay $30 x 2
 
 I inserted them into into the slots
 
-{show insered ram photos here}
+<img src="2RAMSTICKS.jpg" alt="Installed RAM Sticks" width="400">
 
 pc powered on
 
