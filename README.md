@@ -61,6 +61,14 @@ i ordered two ddr4 rams sticks off ebay $30 x 2
 
 I inserted them into into the slots
 
+
+
+<img src="Both ram units 16gb (side by side).jpg" alt="Dual Channel RAM Setup" width="400">
+
+
+
+
+
 pc powered on
 
 specs windows 11 pro , 250 gb ssd intel i5
