@@ -48,13 +48,14 @@ The system is currently identifying a memory fault. Since the motherboard is com
 
 Upon Opening the PC I verfied that it was indeed missing ram as the slots were all empty
 
-
-<img src="RAM-Slots.JPEG" alt="Dell OptiPlex 7040 Internal RAM Slots" width="600">
+{insert empty ram slot here photo}
 
 
 i ordered two ddr4 rams sticks off ebay $30 x 2
 
 I inserted them into into the slots
+
+{show insered ram photos here}
 
 pc powered on
 
