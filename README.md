@@ -1,5 +1,6 @@
 Lab 01: Hardware Acquisition & Initial Diagnostic
 Device: Dell OptiPlex 7040 SFF
+Scope: Cheap personal work computer.
 
 CPU: Intel Core i5
 
@@ -7,12 +8,12 @@ Manufacture Date: 09-07-2016
 
 Source: Facebook Marketplace ($30)
 
-📦 Initial Inventory
+Initial Inventory
 Included: System unit and one C13 power cable.
 
 Seller Claim: "Unit does not power on."
 
-🔍 Phase 1: Initial Triage
+Initial Triage:
 Visual Inspection
 Checked for physical damage to the chassis and ports. The unit is in surprisingly good condition; there are a few minor scuffs and internal dust, but it is otherwise visually sound.
 
