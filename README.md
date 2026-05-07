@@ -63,7 +63,7 @@ I inserted them into into the slots
 
 
 
-<img src="Both ram units 16gb (side by side).jpg" alt="Dual Channel RAM Setup" width="400">
+<img src="Both ram units 16gb (side by side).jpg" alt="RAM Setup" width="400">
 
 
 
@@ -78,7 +78,7 @@ i originally thought order did not matter but it does so im moving them for best
 
 
 
-
+<img src="dual channel.jpg" alt="Final Dual Channel Configuration" width="400">
 
 
 
