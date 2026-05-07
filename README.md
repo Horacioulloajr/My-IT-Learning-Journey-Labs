@@ -73,7 +73,7 @@ pc powered on
 
 specs windows 11 pro , 250 gb ssd intel i5
 
-i noticed the in bios the ram was configured in single channel instead of dual channel. i learned dual channel is better for efficiency 
+i noticed the in BIOS the ram was configured in single channel instead of dual channel. i learned dual channel is better for efficiency 
 i originally thought order did not matter but it does so im moving them for best efficiency.
 
 
@@ -83,11 +83,11 @@ i originally thought order did not matter but it does so im moving them for best
 
 
 
-after re arranging the ram to achive dual channel. i plugged in the PC and no lights come on. oops
+after re arranging the ram to achive dual channel. i plugged in the PC and no lights come on. oops...
 
 I unplugged the power cord, and held the power button for 60 seconds to discharge the computer. then let it sit for an hour.
 
-did not start back up.
+It did not start back up.
 
 I am removing the CMOS battery to force the motherboard to forget all its temporary settings and reset the BIOS to factory defaults, which clears any stuck error codes or glitches that were preventing the computer from booting up.
 
@@ -96,10 +96,10 @@ I am removing the CMOS battery to force the motherboard to forget all its tempor
 
 after discharging the pc again i replaced the CMOS battery. nothing happened. PC is still dead.
 
-I checked the Build in Self Test for the power supply on the back of the PC. Nothing happenned
+I checked the Built in Self Test for the power supply on the back of the PC. Nothing happenned
 
 at this point im not sure what i did wrong? did i mess up the ram and it caused a short? from my research i learned that the motherboard has a feature
-that protects itself if there is a short on the ram. this can cause the PC to appear dead as a defensive mechanism.
+that protects itself if there is a short on the ram. this can cause the PC to appear dead.
 
 I removed each RAM stick and tried discharging and powering it on with each individual stick, followed by no RAM at all. The PC is still dead. 
 (i decided to leave the ram removed for now)
@@ -126,9 +126,9 @@ Lights are flickering and Error codes flashing but the PC is alive.
 I reconnected the SSD back to the power header and the PC died again. So i believe this SSD has a Short in it and the Power Supply's
 Short Circuit Protection (SCP) feature is protecting the rest of the PC from Damage.
 
-I read an SSD usually las 5 to !0 Years. And since this was buisness PC and its already a 10 years old im assuming it was on Its Last legs.
+I read online an SSD usually lasts 5 to 10 Years. And since this was buisness PC and its already 10 years old im assuming it was on its Last legs.
 
-I will be installing a more efficient M.2 NVMe SSD module in the future and reinstalling windows 11.
+I will be installing a more efficient M.2 NVMe SSD module in the future and reinstalling windows 11 pro.
 
 
 
