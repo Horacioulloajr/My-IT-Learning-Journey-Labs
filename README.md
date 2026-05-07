@@ -104,7 +104,13 @@ that protects itself if there is a short on the ram. this can cause the PC to ap
 I removed each RAM stick and tried discharging and powering it on with each individual stick, followed by no RAM at all. The PC is still dead. 
 (i decided to leave the ram removed for now)
 
-I checked the SSD and unplugged it from the mother board. 
+I checked the SSD and unplugged the power supply from the mother board it from the mother board. 
+
+<img src="SSD. unplugged power..jpg" alt="Unplugging the SSD" width="400">
+
+
+
+THE PC POWERED ON!
 
 
 
