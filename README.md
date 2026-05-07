@@ -85,9 +85,9 @@ i originally thought order did not matter but it does so im moving them for best
 
 after re arranging the ram to achive dual channel. i plugged in the PC and no lights come on. oops
 
-I unplugged the power cord, and held the power button for 60 seconds to discharge th computer. then let it sit for an hour.
+I unplugged the power cord, and held the power button for 60 seconds to discharge the computer. then let it sit for an hour.
 
-didnt not start back up.
+did not start back up.
 
 I am removing the CMOS battery to force the motherboard to forget all its temporary settings and reset the BIOS to factory defaults, which clears any stuck error codes or glitches that were preventing the computer from booting up.
 
@@ -104,13 +104,34 @@ that protects itself if there is a short on the ram. this can cause the PC to ap
 I removed each RAM stick and tried discharging and powering it on with each individual stick, followed by no RAM at all. The PC is still dead. 
 (i decided to leave the ram removed for now)
 
-I checked the SSD and unplugged the power supply from the mother board it from the mother board. 
+I checked the SSD and disconnected the power connector from the mother board. 
+(The SSD receives its power through a SATA Power Header located directly on the motherboard)
 
 <img src="SSD. unplugged power..jpg" alt="Unplugging the SSD" width="400">
 
 
 
-THE PC POWERED ON!
+
+
+
+
+
+
+I discharged the PC by unplugging it and holding the power button for 60 seconds again.
+
+Leaving the SSD disconnected from power. I pushed the power button AND THE PC COMES BACK TO LIFE.
+
+Lights are flickering and Error codes flashing but the PC is alive.
+
+I reconnected the SSD back to the power header and the PC died again. So i believe this SSD has a Short in it and the Power Supply's
+Short Circuit Protection (SCP) feature is protecting the rest of the PC from Damage.
+
+I read an SSD usually las 5 to !0 Years. And since this was buisness PC and its already a 10 years old im assuming it was on Its Last legs.
+
+I will be installing a more efficient M.2 NVMe SSD module in the future and reinstalling windows 11.
+
+
+
 
 
 
