@@ -91,7 +91,7 @@ didnt not start back up.
 
 I am removing the CMOS battery to force the motherboard to forget all its temporary settings and reset the BIOS to factory defaults, which clears any stuck error codes or glitches that were preventing the computer from booting up.
 
-
+<img src="coin battery slot.jpg" alt="CMOS Coin Battery Location" width="400">
 
 
 
