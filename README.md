@@ -1,5 +1,6 @@
 Lab 01: Hardware Acquisition & Initial Diagnostic
 Device: Dell OptiPlex 7040 SFF
+
 Scope: Cheap personal work computer.
 
 CPU: Intel Core i5
