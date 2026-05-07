@@ -85,6 +85,14 @@ i originally thought order did not matter but it does so im moving them for best
 
 after re arranging the ram to achive dual channel. i plugged in the PC and no lights come on. oops
 
+I unplugged the power cord, and held the power button for 60 seconds to discharge th computer. then let it sit for an hour.
+
+didnt not start back up.
+
+I am removing the CMOS battery to force the motherboard to forget all its temporary settings and reset the BIOS to factory defaults, which clears any stuck error codes or glitches that were preventing the computer from booting up.
+
+
+
 
 
 
