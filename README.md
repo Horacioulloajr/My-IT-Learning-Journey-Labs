@@ -106,6 +106,7 @@ Power Supply's Short Circuit Protection (SCP) feature is protecting the rest of 
 I read online that an SSD usually lasts 5 to 10 years. Since this was a business PC and is already 10 years old, I am assuming it was on its last legs.
 
 I will be installing a more efficient M.2 NVMe SSD module in the future and reinstalling Windows 11 Pro.
+
 I will be installing a wifi PCIe card as well for convienience, this unit is ethernet only at the moment.
 
 
