@@ -94,6 +94,21 @@ I am removing the CMOS battery to force the motherboard to forget all its tempor
 <img src="coin battery slot.jpg" alt="CMOS Coin Battery Location" width="400">
 
 
+after discharging the pc again i replaced the CMOS battery. nothing happened. PC is still dead.
+
+I checked the Build in Self Test for the power supply on the back of the PC. Nothing happenned
+
+at this point im not sure what i did wrong? did i mess up the ram and it caused a short? from my research i learned that the motherboard has a feature
+that protects itself if there is a short on the ram. this can cause the PC to appear dead as a defensive mechanism.
+
+I removed each RAM stick and tried discharging and powering it on with each individual stick, followed by no RAM at all. The PC is still dead. 
+(i decided to leave the ram removed for now)
+
+I checked the SSD and unplugged it from the mother board. 
+
+
+
+
 
 
  
