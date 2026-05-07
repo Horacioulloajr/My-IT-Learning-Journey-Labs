@@ -24,9 +24,9 @@ Verified the seller's claim using the provided cable. Result: No signs of life (
 Component Isolation
 I identified that my monitor uses the same C13 connector as the PC. I swapped the cables to determine if the issue was the internal Power Supply Unit (PSU) or the external cable.
 
-Observation: The PC powered on immediately with the monitor cable.
+The PC powered on immediately with the monitor cable.
 
-Observation: The monitor failed to power on using the PC's original cable.
+The monitor failed to power on using the PC's original cable.
 
 [!IMPORTANT]
 Verdict: The C13 power cord was faulty.
