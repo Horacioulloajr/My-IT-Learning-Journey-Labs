@@ -39,7 +39,6 @@ Once the power issue was resolved, the PC powered on but failed to complete the 
 
 <img src="blinking%20orange%20light.jpeg" alt="Blinking orange light on power button" width="400">
 
-Technical Research
 After researching Dell’s diagnostic codes, I learned that the blink pattern acts as a "Morse code" for hardware failures.
 
 Observed Pattern: 3 amber flashes, a pause, followed by 3 amber flashes (Code 3,3).
