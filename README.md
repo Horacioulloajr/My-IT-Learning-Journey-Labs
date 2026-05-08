@@ -28,7 +28,6 @@ The PC powered on immediately with the monitor cable.
 
 The monitor failed to power on using the PC's original cable.
 
-[!IMPORTANT]
 Verdict: The C13 power cord was faulty.
 
 Solution: Ordered a replacement power cord ($2).
